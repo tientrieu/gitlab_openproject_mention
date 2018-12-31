@@ -1,6 +1,6 @@
 {
   "opSettings": {
-    "opBaseUrl" : "http://tasks.hasontech.com/",
-    "apiKey": "f1694e474c07be00a9ee98d86803acc38e0a0b6a2dbda8594f7d703ad4c8e190"
+    "opBaseUrl" : "{your_openproject_url}",
+    "apiKey": "{your_openproject_apikey}"
   }
 }
